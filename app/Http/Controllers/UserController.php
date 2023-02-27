@@ -13,9 +13,9 @@ class UserController extends Controller
     public function show($id){
         $data=array(
         "id"=>$id,
-        "name"=>"LeonardReyes",
-        "age"=>30,
-        "email"=>"primus.reyes@gmail.com"
+        "name"=>"RhojanMarkBaliscao",
+        "age"=>21,
+        "email"=>"rhojanmarkb@gmail.com"
          );
          return view('user', $data);
     }
