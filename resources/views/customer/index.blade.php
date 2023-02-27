@@ -10,7 +10,7 @@
 </head>
 <body>
     <h3>Customer Data</h3>
-    <table class="table">
+    <table class="table table-striped table-dark">
   <thead>
     <tr>
       <th scope="col">Id</th>
